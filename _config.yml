@@ -1,7 +1,7 @@
 title: "No1V4"
 email: zakariafarahi521@gmail.com
 timezone: UTC
-baseurl: "/no1v4-main"
+baseurl: "/MyBlog"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
