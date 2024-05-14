@@ -1,0 +1,48 @@
+title: "No1V4"
+email: zakariafarahi521@gmail.com
+timezone: UTC
+baseurl: "/no1v4-main"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: 
+
+# Authors
+authors:
+  sal:
+    name: zakaria
+    display_name: zakaria
+    avatar: 'assets/images/sal.png'
+    email: zakariafarahi521@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/
+    description: "Zakaria Farahi student of cybersecurity and Digital Trust."
+
+# Social
+social:
+  linkedin: https://www.linkedin.com/in/zakaria-farahi-b887ba286/
+  github: https://github.com/Zakaria-Farahi
+  twitter: https://twitter.com/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
